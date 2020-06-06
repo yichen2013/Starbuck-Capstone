@@ -27,10 +27,10 @@ The packages I used:
 	
 ## File Descriptions
 
-* portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
-* profile.json - demographic data for each customer
-* transcript.json - records for transactions, offers received, offers viewed, and offers completed
-* Starbucks 
+* portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.).
+* profile.json - demographic data for each customer.
+* transcript.json - records for transactions, offers received, offers viewed, and offers completed.
+* Starbucks_Capstone_notebook.ipynb - Jupyter notebook of this project.
  
 ## Results
  
