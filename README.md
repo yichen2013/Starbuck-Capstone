@@ -42,3 +42,7 @@ General marketing strategies:
 * Send more offer to customers who became member between 2015 and 2017.
 * Use social media as the main channel to send out offer. 
 * No need to send out offer 6 and 7, since none of them is finished by the customers.
+
+## Links
+
+Blog link: [here](https://medium.com/@sishuiweilanmei/starbucks-rewards-mobile-app-marketing-strategy-5697263c0e4a)
